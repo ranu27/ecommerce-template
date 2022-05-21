@@ -12,4 +12,5 @@ public class ProductDto {
     private String image;
     private Long discount_percentage;
     private Long weight_in_grams;
+    private double price;
 }
